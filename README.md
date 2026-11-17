@@ -1,7 +1,7 @@
 MỤC 1: THÔNG TIN SINH VIÊN
- Họ và tên sinh viên: Nguyễn Thị Thu Hương
- Mã sinh viên: 24810310261
- Lớp / Khóa: D19CNPM3
+ Họ và tên sinh viên: Nguyễn Thị Thu Hương
+ Mã sinh viên: 24810310261
+ Lớp / Khóa: D19CNPM3
 
 MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
